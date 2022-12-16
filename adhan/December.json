@@ -5,7 +5,7 @@
 		"Dhuhr": "12:27 AM",
 		"Asr":"03:11 PM",
 		"Maghreb":"05:37 PM",
-		"Isha":"06:52",
+		"Isha":"06:52 PM",
 		"Midnight":"01:43 AM"
 	},
 	"16" : {
@@ -14,7 +14,7 @@
 		"Dhuhr": "12:27 AM",
 		"Asr":"03:12 PM",
 		"Maghreb":"05:38 PM",
-		"Isha":"06:53",
+		"Isha":"06:53 PM",
 		"Midnight":"01:44 AM"
 	},
 	"17" : {
@@ -23,7 +23,7 @@
 		"Dhuhr": "12:27 AM",
 		"Asr":"03:11 PM",
 		"Maghreb":"05:37 PM",
-		"Isha":"06:52",
+		"Isha":"06:52 PM",
 		"Midnight":"01:43 AM"
 	},
 	"18" : {
@@ -32,7 +32,7 @@
 		"Dhuhr": "12:27 AM",
 		"Asr":"03:12 PM",
 		"Maghreb":"05:38 PM",
-		"Isha":"06:53",
+		"Isha":"06:53 PM",
 		"Midnight":"01:44 AM"
 	}
 }
