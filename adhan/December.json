@@ -106,5 +106,41 @@
 		"Maghreb":"05:38 PM",
 		"Isha":"06:53 PM",
 		"Midnight":"01:44 AM"
+	},
+	"27" : {
+		"Fajr": "05:57 AM",
+		"Sunrise": "07:24 AM",
+		"Dhuhr": "12:27 AM",
+		"Asr":"03:11 PM",
+		"Maghreb":"05:37 PM",
+		"Isha":"06:52 PM",
+		"Midnight":"01:43 AM"
+	},
+	"28" : {
+		"Fajr": "05:57 AM",
+		"Sunrise": "07:24 AM",
+		"Dhuhr": "12:27 AM",
+		"Asr":"03:12 PM",
+		"Maghreb":"05:38 PM",
+		"Isha":"06:53 PM",
+		"Midnight":"01:44 AM"
+	},
+	"29" : {
+		"Fajr": "05:57 AM",
+		"Sunrise": "07:24 AM",
+		"Dhuhr": "12:27 AM",
+		"Asr":"03:11 PM",
+		"Maghreb":"05:37 PM",
+		"Isha":"06:52 PM",
+		"Midnight":"01:43 AM"
+	},
+	"30" : {
+		"Fajr": "05:57 AM",
+		"Sunrise": "07:24 AM",
+		"Dhuhr": "12:27 AM",
+		"Asr":"03:12 PM",
+		"Maghreb":"05:38 PM",
+		"Isha":"06:53 PM",
+		"Midnight":"01:44 AM"
 	}
 }
